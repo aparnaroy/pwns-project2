@@ -10,4 +10,4 @@ Good luck, ask lots of questions.
 
 ### Running the Exploit Scripts:
 
-To run the exploit scripts, do: `ipython3 pcp_.py`
+To run the exploit scripts, do: `ipython3 exp##.py`
