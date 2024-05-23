@@ -7,3 +7,7 @@ You can find write-ups of those problems when you get stuck, but these will have
 We will release the problems in batches over the 7-weeks of this course.
 
 Good luck, ask lots of questions.
+
+### Running the Exploit Scripts:
+
+To run the exploit scripts, do: `ipython3 pcp_.py`
